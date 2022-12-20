@@ -1,0 +1,25 @@
+.title {
+    color: green;
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+}
+
+.list-item {
+    margin-right: 20px;
+    border: 2px solid orange;
+    width: 500px;
+    text-align: center;
+    font-size: 50px;
+    background-color: dodgerblue;
+    color: gold;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.fhoto-img {
+    width: 400px;
+}
